@@ -1,0 +1,192 @@
+[
+  {
+    "request_id": "R-67e25e17-246c-4909-addd-765a8017d3f9",
+    "user_id": "U-7229f8d6",
+    "timestamp": 1677654000,
+    "pickup_location": {
+      "latitude": 40.781672827121625,
+      "longitude": -73.86336349798543
+    },
+    "destination": {
+      "latitude": 40.74448426917434,
+      "longitude": -73.97436471249544
+    },
+    "status": "REQUESTED",
+    "vehicle_type": "Economy",
+    "estimated_fare": 35.52,
+    "estimated_duration": 43,
+    "estimated_distance": 10.24,
+    "passenger_count": 1
+  },
+  {
+    "request_id": "R-da7753a9-e8fd-4558-93f3-ea550c3c6cf1",
+    "user_id": "U-14e71474",
+    "timestamp": 1677654000,
+    "pickup_location": {
+      "latitude": 40.78221594017482,
+      "longitude": -73.9695296517009
+    },
+    "destination": {
+      "latitude": 40.63612670751856,
+      "longitude": -73.77710658515275
+    },
+    "status": "REQUESTED",
+    "vehicle_type": "Economy",
+    "estimated_fare": 60.18,
+    "estimated_duration": 50,
+    "estimated_distance": 22.97,
+    "passenger_count": 3
+  },
+  {
+    "request_id": "R-23a3cd63-f25c-4d54-9964-718d399762f2",
+    "user_id": "U-e959df7d",
+    "timestamp": 1677654000,
+    "pickup_location": {
+      "latitude": 40.64435217127564,
+      "longitude": -73.78717640815807
+    },
+    "destination": {
+      "latitude": 40.73061508995934,
+      "longitude": -73.99143451471517
+    },
+    "status": "REQUESTED",
+    "vehicle_type": "Premium",
+    "estimated_fare": 58.17,
+    "estimated_duration": 60,
+    "estimated_distance": 19.75,
+    "passenger_count": 1
+  },
+  {
+    "request_id": "R-42afe3c1-f2da-48bf-97b6-f2150b24a5c0",
+    "user_id": "U-778ce3e1",
+    "timestamp": 1677654000,
+    "pickup_location": {
+      "latitude": 40.76969250176339,
+      "longitude": -73.86823924042649
+    },
+    "destination": {
+      "latitude": 40.724485887490445,
+      "longitude": -73.97193814464964
+    },
+    "status": "REQUESTED",
+    "vehicle_type": "Premium",
+    "estimated_fare": 31.09,
+    "estimated_duration": 31,
+    "estimated_distance": 10.09,
+    "passenger_count": 3
+  },
+  {
+    "request_id": "R-5bcbe575-cc75-4b1f-87a2-d7d6aab45ac7",
+    "user_id": "U-226e17e8",
+    "timestamp": 1677654000,
+    "pickup_location": {
+      "latitude": 40.633053889676,
+      "longitude": -73.8003495052739
+    },
+    "destination": {
+      "latitude": 40.7318538469407,
+      "longitude": -73.98735299079
+    },
+    "status": "REQUESTED",
+    "vehicle_type": "Economy",
+    "estimated_fare": 54.52,
+    "estimated_duration": 52,
+    "estimated_distance": 19.24,
+    "passenger_count": 4
+  },
+  {
+    "request_id": "R-274fd9f7-75f1-4411-a9db-0cff8791bc13",
+    "user_id": "U-4f064607",
+    "timestamp": 1677654000,
+    "pickup_location": {
+      "latitude": 40.77139447807186,
+      "longitude": -73.87229077563873
+    },
+    "destination": {
+      "latitude": 40.814180458639605,
+      "longitude": -74.03220787282851
+    },
+    "status": "REQUESTED",
+    "vehicle_type": "Economy",
+    "estimated_fare": 48.12,
+    "estimated_duration": 59,
+    "estimated_distance": 14.31,
+    "passenger_count": 4
+  },
+  {
+    "request_id": "R-56493468-43fe-4a4d-b291-730619034578",
+    "user_id": "U-5eb95141",
+    "timestamp": 1677654000,
+    "pickup_location": {
+      "latitude": 40.634767969031,
+      "longitude": -73.76270899149442
+    },
+    "destination": {
+      "latitude": 40.74827296240761,
+      "longitude": -73.98477445805442
+    },
+    "status": "REQUESTED",
+    "vehicle_type": "SUV",
+    "estimated_fare": 58.37,
+    "estimated_duration": 47,
+    "estimated_distance": 22.61,
+    "passenger_count": 2
+  },
+  {
+    "request_id": "R-2ec30495-ceae-485a-8f07-c36063831174",
+    "user_id": "U-fabb3ee4",
+    "timestamp": 1677654000,
+    "pickup_location": {
+      "latitude": 40.76693130415669,
+      "longitude": -73.85578977670818
+    },
+    "destination": {
+      "latitude": 40.79113665823017,
+      "longitude": -73.93446136254194
+    },
+    "status": "REQUESTED",
+    "vehicle_type": "Economy",
+    "estimated_fare": 23.32,
+    "estimated_duration": 24,
+    "estimated_distance": 7.16,
+    "passenger_count": 3
+  },
+  {
+    "request_id": "R-b6daa946-274e-4c6a-aee9-abf6d15a2060",
+    "user_id": "U-7552a879",
+    "timestamp": 1677654000,
+    "pickup_location": {
+      "latitude": 40.73228767123629,
+      "longitude": -73.9881294485784
+    },
+    "destination": {
+      "latitude": 40.80003761741853,
+      "longitude": -73.96082854013865
+    },
+    "status": "REQUESTED",
+    "vehicle_type": "Premium",
+    "estimated_fare": 23.22,
+    "estimated_duration": 20,
+    "estimated_distance": 7.87,
+    "passenger_count": 2
+  },
+  {
+    "request_id": "R-b027d221-021f-48d4-8e42-4a4436582d66",
+    "user_id": "U-a1fe627c",
+    "timestamp": 1677654000,
+    "pickup_location": {
+      "latitude": 40.729515330769146,
+      "longitude": -73.9887178762149
+    },
+    "destination": {
+      "latitude": 40.82230368628351,
+      "longitude": -73.96699376251739
+    },
+    "status": "REQUESTED",
+    "vehicle_type": "Comfort",
+    "estimated_fare": 33.62,
+    "estimated_duration": 37,
+    "estimated_distance": 10.47,
+    "passenger_count": 2
+  }
+]
